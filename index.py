@@ -1,9 +1,3 @@
-print("hi anousone")
-print("hi anousone")
-print("hi anousone")
-print("hi anousone")
-
-
 def name(first_name, last_name):
     return "hi:" + first_name + last_name
 
