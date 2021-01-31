@@ -11,3 +11,4 @@ def square(a, b):
 
 if __name__ == "__main__":
     print(square(4, 3))
+    print(name("sone", "anousone"))
